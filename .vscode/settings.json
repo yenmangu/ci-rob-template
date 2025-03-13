@@ -10,7 +10,8 @@
 		"**/core.Microsoft*": true,
 		"**/core.mongo*": true,
 		"**/core.python*": true,
-		"**/CVS": true
+		"**/CVS": true,
+		"**/._*": true
 	},
 	"files.autoSave": "off",
 	"workbench.colorTheme": "Ayu Mirage Bordered",
