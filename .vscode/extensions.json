@@ -11,7 +11,8 @@
 		"geyao.html-snippets",
 		"Zignd.html-css-class-completion",
 		"pranaygp.vscode-css-peek",
-		"AnbuselvanRocky.bootstrap5-vscode"
+		"AnbuselvanRocky.bootstrap5-vscode",
+		"yzhang.markdown-all-in-one"
 	],
 
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
