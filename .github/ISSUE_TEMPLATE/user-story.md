@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **User Story**
-_User story here_
+_"User story here"_
 
 **Acceptance Criteria**
 
