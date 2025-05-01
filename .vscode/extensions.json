@@ -14,7 +14,9 @@
 		"yzhang.markdown-all-in-one",
 		"christian-kohler.path-intellisense",
 		"chris-noring.node-snippets",
-		"postman.postman-for-vscode"
+		"postman.postman-for-vscode",
+		"andys8.jest-snippets",
+		"orta.vscode-jest"
 	],
 
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
